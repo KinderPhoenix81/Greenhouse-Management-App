@@ -1,0 +1,11 @@
+# Ignore compiled class files and build output
+/bin/
+/.settings/
+/.metadata/
+*.class
+*.log
+
+# Ignore Eclipse-specific and backup files
+*.tmp
+*.bak
+*.swp
